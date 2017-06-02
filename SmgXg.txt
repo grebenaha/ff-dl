@@ -1,0 +1,9 @@
+[youtube] EKL86h3CpdU: Downloading webpage
+[youtube] EKL86h3CpdU: Downloading video info webpage
+[youtube] EKL86h3CpdU: Extracting video information
+[youtube] EKL86h3CpdU: Downloading MPD manifest
+[download] Destination: youtube/Honest_Trailers_-_Catwoman.webm
+^M[download]   0.0% of 4.62MiB at 670.23KiB/s ETA 00:07^M[download]   0.1% of 4.62MiB at  1.78MiB/s ETA 00:02^M[download]   0.1% of 4.62MiB at  3.93MiB/s ETA 00:01^M[download]   0.3% of 4.62MiB at  8.09MiB/s ETA 00:00^M[download]   0.7% of 4.62MiB at  1.49MiB/s ETA 00:03^M[download]   1.3% of 4.62MiB at  2.07MiB/s ETA 00:02^M[download]   2.7% of 4.62MiB at  2.51MiB/s ETA 00:01^M[download]   5.4% of 4.62MiB at  3.63MiB/s ETA 00:01^M[download]  10.8% of 4.62MiB at  3.89MiB/s ETA 00:01^M[download]  21.6% of 4.62MiB at  5.13MiB/s ETA 00:00^M[download]  43.2% of 4.62MiB at  7.18MiB/s ETA 00:00^M[download]  86.5% of 4.62MiB at  7.87MiB/s ETA 00:00^M[download] 100.0% of 4.62MiB at  8.19MiB/s ETA 00:00^M[download] 100% of 4.62MiB in 00:00
+[ffmpeg] Destination: youtube/Honest_Trailers_-_Catwoman.mp3
+Deleting original file youtube/Honest_Trailers_-_Catwoman.webm (pass -k to keep)
+
