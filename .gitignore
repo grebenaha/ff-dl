@@ -1,2 +1,10 @@
 /node_modules
 /youtube
+.idea/ff-dl.iml
+.idea/inspectionProfiles/
+.idea/jsLibraryMappings.xml
+.idea/jsLinters/
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+temp/

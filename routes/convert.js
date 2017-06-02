@@ -12,7 +12,7 @@ router.post('/', function(req, res, next) {
     const mp3Title = '%(title)s.%(ext)s';
     const youtubeLink = req.body.link;
     const fileName = randomstring.generate({length: 5, charset: 'alphabetic'});
-    const cmd = 'youtube-dl --extract-audio --audio-format mp3 --restrict-filenames -o "youtube/' + mp3Title + '" ' + youtubeLink + ' > ' + fileName + '.txt';
+    const cmd = 'youtube-dl --extract-audio --audio-format mp3 --restrict-filenames -o "youtube/' + mp3Title + '" ' + youtubeLink + ' > temp/'  + fileName + '.txt';
     exec(cmd, function (error, stdout, stderr) {
         console.log('stdout: ' + stdout);
         console.log('stderr: ' + stderr);
