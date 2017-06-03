@@ -1,9 +1,0 @@
-[youtube] ifCWN5pJGIE: Downloading webpage
-[youtube] ifCWN5pJGIE: Downloading video info webpage
-[youtube] ifCWN5pJGIE: Extracting video information
-[youtube] ifCWN5pJGIE: Downloading js player vfl4Bp4Hk
-[youtube] ifCWN5pJGIE: Downloading MPD manifest
-[download] Destination: youtube\Official_Video_Mary_Did_You_Know_-_Pentatonix.webm
-[download]   0.0% of 4.03MiB at 399.69KiB/s ETA 00:10[download]   0.1% of 4.03MiB at  1.17MiB/s ETA 00:03 [download]   0.2% of 4.03MiB at  2.73MiB/s ETA 00:01 [download]   0.4% of 4.03MiB at  4.88MiB/s ETA 00:00 [download]   0.8% of 4.03MiB at  1.78MiB/s ETA 00:02 [download]   1.5% of 4.03MiB at  2.08MiB/s ETA 00:01 [download]   3.1% of 4.03MiB at  3.02MiB/s ETA 00:01 [download]   6.2% of 4.03MiB at  4.15MiB/s ETA 00:00 [download]  12.4% of 4.03MiB at  3.31MiB/s ETA 00:01 [download]  24.8% of 4.03MiB at  4.83MiB/s ETA 00:00 [download]  49.6% of 4.03MiB at  6.41MiB/s ETA 00:00 [download]  99.2% of 4.03MiB at  7.10MiB/s ETA 00:00 [download] 100.0% of 4.03MiB at  7.16MiB/s ETA 00:00 [download] 100% of 4.03MiB in 00:00                  
-[ffmpeg] Destination: youtube\Official_Video_Mary_Did_You_Know_-_Pentatonix.mp3
-Deleting original file youtube\Official_Video_Mary_Did_You_Know_-_Pentatonix.webm (pass -k to keep)
